@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "displayErrorDetails": true,
+        "determineRouteBeforeAppMiddleware": true,
+        "logger": {
+
+        }
+    },
+    "api": {
+        "version": "0.0"
+    },
+    "twig": {
+        "debug": true
+    }
+}
